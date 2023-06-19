@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: titanic
+Version: 1.0.1
+Summary: OTUS ML repo skeleton
+Author-email: Pavel Filonov <filonovpv@gail.com>
+Project-URL: homepage, https://github.com/sdukshis/otus-ml-skel
+Keywords: one,two
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# otus-ml-skel
+ML repo skeleton
+
+Данные проект использоуется как шаблон для курса по OTUS ML BigData
+
+В проекте рассмотрено решение задачи про пассажиров Титаника - https://www.kaggle.com/c/titanic
+
+## Contributing
+
+Смотри [CONTRIBUTING.md](CONTRIBUTING.md)
+test
+
